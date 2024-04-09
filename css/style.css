@@ -11,4 +11,11 @@ header{
 .portfolio{
     color: #333333;
     background-color: white;
+    margin-top: 1rem;
+}
+
+.about{
+    background-color: #1abc9c;
+    color: white;
+    margin-top: 1rem;
 }
