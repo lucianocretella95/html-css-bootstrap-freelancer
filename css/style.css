@@ -1,0 +1,14 @@
+header{
+    background-color: rgba(44,62,80,255);
+    color: white;
+}
+
+.jumbotron {
+    background-color: #1abc9c;
+    color: white;
+}
+
+.portfolio{
+    color: #333333;
+    background-color: white;
+}
