@@ -18,4 +18,6 @@ header{
     background-color: #1abc9c;
     color: white;
     margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
 }
